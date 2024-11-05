@@ -1,1 +1,2 @@
 This is clonning project
+This is updated text
